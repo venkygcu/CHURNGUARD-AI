@@ -54,8 +54,3 @@ Then open `http://localhost:8000/ChurnGuard_AI_Live_Demo.html`.
 
 The tuned Random Forest uses class weighting to improve churn recall. See `report/CHURNGUARD_AI_Project_Report.pdf` for methodology, interpretation, and limitations.
 
-## Live demo
-
-The GitHub Pages homepage opens the interactive demo: https://venkygcu.github.io/CHURNGUARD-AI/
-
-The project root page redirects visitors to ChurnGuard_AI_Live_Demo.html; the README and report remain available in the repository.
