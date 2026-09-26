@@ -56,6 +56,6 @@ The tuned Random Forest uses class weighting to improve churn recall. See `repor
 
 ## Live demo
 
-The GitHub Pages workflow publishes the demo at: https://venkygcu.github.io/CHURNGUARD-AI/
+The GitHub Pages homepage opens the interactive demo: https://venkygcu.github.io/CHURNGUARD-AI/
 
-If Pages is not enabled yet, open the repository Settings → Pages and set the publishing source to GitHub Actions. The workflow deploys the demo after that setting is enabled.
+The project root page redirects visitors to ChurnGuard_AI_Live_Demo.html; the README and report remain available in the repository.
